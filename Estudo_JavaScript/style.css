@@ -1,0 +1,16 @@
+.estilo1{
+    background-color: red;
+    color: white;
+
+}
+.estilo2{
+width: 500px;
+height: 500px;
+position: relative;
+left: 50px;
+top: 50px;
+background-color: blue;
+text-align: center;
+color: orange;
+padding: 25px;
+}
