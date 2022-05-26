@@ -2,21 +2,21 @@
 Aula Carol
 O que espero aprender:
 
-Configuração de ambiente C# .NET
-Fundamentos C#
-C# Orientado a objetos
-gateways
-presenters
-controllers
-tipos de aplicações em C#
-Organizaçao de codigo
-Arquitetura limpa
-Frameworks de C#
-C# profissional
-injeção de dependências
-Métodos e funções
-API
-C# com aplicações profissionais
+Configuração de ambiente C# .NET,
+Fundamentos C#,
+C# Orientado a objetos,
+gateways,
+presenters,
+controllers,
+tipos de aplicações em C#,
+Organizaçao de codigo,
+Arquitetura limpa,
+Frameworks de C#,
+C# profissional,
+injeção de dependências,
+Métodos e funções,
+API,
+C# com aplicações profissionais.
 Getters & Setters
 ----------------------------------------------------------------------------------------------------------------------
 Arquitetura limpa
