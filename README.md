@@ -106,7 +106,7 @@ Coesão: quando temos uma classe elaborada com um único e bem focado propósito
 
 
 
-o que sao classes?
+o que sao classes? 1
 r- Uma classe de objetos descreve um grupo de objetos com propriedades (atributos) similares,
  comportamento (operações) similares, relacionamentos comuns com outros objetos e uma semântica comum.
  Por exemplo, Pessoa e Companhia são classes de objetos.
@@ -152,6 +152,19 @@ E ELE VAI CONTINUAR FUNCIONANDO MAS É NESSEÁRIO QUE SIGA AS REGRAS DO MVC
 E ONDE FICA AS REGRAS DE NEGÓCIO NO MVC?
 
 A REGRA DE NÉGOCIO DEVE FICAR NA CAMADE DE MODELO
+
+O que são classes? 2 (melhor explicado)
+
+classes sao representaçoes de itens fisicos ideias ou conceitos 
+ela é um bloco de construção fundamental em sistemas orientados a objeto (OO) 
+e ela sao colocadas dentro de um projeto de software em um NAMESPACE
+
+
+as classes sao definidas por dois elementos básicos 
+
+1: sao os atributos (que sao as propriedades que uma classe possui por exemplo: em um celular temos uma tela, um botao pelo menos, uma camera e etc)
+2: sao os métodos (sao como funcionalidades por exemplo: o celular permite receber ligaçoes, enviar ou receber mensagens e etc)
+
 
 
 
