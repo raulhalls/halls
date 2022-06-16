@@ -165,6 +165,72 @@ as classes sao definidas por dois elementos básicos
 1: sao os atributos (que sao as propriedades que uma classe possui por exemplo: em um celular temos uma tela, um botao pelo menos, uma camera e etc)
 2: sao os métodos (sao como funcionalidades por exemplo: o celular permite receber ligaçoes, enviar ou receber mensagens e etc)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+API:
+
+porta default http é: 80
+
+uma chamada http é encerrada ao encerrar o navegador
+
+uma requisiçao é dividida em 5 partes 
+
+cabeçalho.
+
+corpo.
+
+requisiçao em sí.
+
+status.
+
+identidade.
+
+o que sao métodos para fazer a requisiçao?
+
+são funçoes predefinidas que sao usadas para chamar certo tipos de funçoes
+
+entre elas:
+get //leitura de dados//puxar dados 
+post//incerçao de dados  
+reader // ele permite uma flexibilidade maior ao get
+delet// ele é um recurso feito para fazer deleçoes
+options//abre chamadas e fecha chamadas de comunicaçao
+put//atualizaçao de dados
+trace//executa um teste de reotrno de mensagem 
+pet//atualizaçao de dados de um unico elemento
+
+sao 3 retornos de requisiçoes
+
+processada e retornada é 200
+
+ela foi adicionada dentro do banco é 201 mas nao teve retorno
+
+requisiçoes erros
+
+401 é nao autorizado é refente as credenciais de acesso
+
+402 ele quer dizer que a api esta correta porem bloqueada por inadiplencia (falta de pagamento)
+
+403 conexao iniciada sem criptografia caso exista o https
+
+404 not found significa que alguma requisiçao feita esta errada (mais comum)
+
+400 a requisição nao foi bem interpretada (mais comum)
+
+500 internal server erro (erro no servidor)
+
+//otimizaçao de dados em uma api
+
+caso a api retorne campos nulos a api estara gastando memoria para sair campo nulo
+
+
+
+
+
+
+
+
+
 
 
 
